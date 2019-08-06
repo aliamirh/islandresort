@@ -1,7 +1,10 @@
 body {
  font-family:'Spectral';
  font-size:19px;
-
+ background-image: url("http://paperlief.com/images/most-beautiful-tropical-beaches-wallpaper-1.jpg");
+ background-size: 2500px;
+ background-position: middle;
+ background-repeat: no-repeat;
 }
 
 #imgs img {
