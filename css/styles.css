@@ -1,0 +1,13 @@
+body {
+ font-family:'Spectral';
+ font-size:19px;
+
+}
+
+#imgs img {
+  position: relative;
+  length: 350px;
+  width: 350px;
+
+
+}
