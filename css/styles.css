@@ -1,13 +1,18 @@
 body {
  font-family:'Spectral';
  font-size:19px;
+ background-color: #778899;
+}
 
+h2 {
+  color: #f2f2f2
 }
 
 #imgs img {
   position: relative;
   length: 350px;
   width: 350px;
+
 
 
 }
